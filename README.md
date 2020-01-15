@@ -22,3 +22,4 @@
 + 821.Shortes Distance to a Character
 + 822.Card Flipping Game
 + 1029.Two City Scheduling
++ 1030.Minimum Cost Tree From Leaf Value
