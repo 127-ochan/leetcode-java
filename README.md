@@ -11,10 +11,14 @@
 + 121.Best Time to Buy and Sell Stock
 + 122.Best Time to Buy and Sell Stock II
 + 123.Best Time to Buy and Sell Stock III
++ 141.Linked List Cycle
++ 142.Linked List Cycle II
 + 188.Best Time to Buy and Sell Stock IV   
 + 217.Contains Duplicate
 + 263.Ugly Number
 + 264.Ugly Number II
++ 279.Perfect Squares
++ 292.Nim Game
 + 309.Best Time to Buy and Sell Stock with Cooldown
 + 313.Super Ugly Number
 + 645.Set Mismatch
@@ -22,4 +26,4 @@
 + 821.Shortes Distance to a Character
 + 822.Card Flipping Game
 + 1029.Two City Scheduling
-+ 1030.Minimum Cost Tree From Leaf Value
++ 1130.Minimum Cost Tree From Leaf Value
